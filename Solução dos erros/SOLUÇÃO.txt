@@ -1,0 +1,6 @@
+Solução para vetores diferentes NÃO acontecer mais; 
+---------------------------------------------------
+   - Preencho vetor fora, e APENAS UMA VEZ;
+   - É preciso retirar a opção de chamar o preencher vetor
+	mais de uma vez, pois isso ocasionará em vetores diferentes;
+   - É necessário rodar ele no FOR apenas uma vez. 

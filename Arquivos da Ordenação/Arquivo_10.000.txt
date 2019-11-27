@@ -1,0 +1,8 @@
+Arquivo de 10.000 Elementos.
+---------------------------
+
+Média Bubble_Sort: 706.
+
+Média Inserction_Sort: 230.
+
+Média Selection_Soort: 243.

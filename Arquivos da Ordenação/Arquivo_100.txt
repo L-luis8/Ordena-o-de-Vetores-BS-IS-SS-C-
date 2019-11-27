@@ -1,0 +1,8 @@
+Arquivo de 100 Elementos.
+------------------------
+
+Média Bubble_Sort: 120080.
+
+Média Inserction_Sort: 11995.
+
+Média Selection_Sort: 40620.
